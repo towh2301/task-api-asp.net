@@ -46,7 +46,6 @@ public class TaskService : ITaskService
         {
             throw new Exception($"Error when finding task with id {taskId} and userId {userId}", ex);
         }
-
     }
 
     public async Task UpdateTaskAsync(TaskItem task, int userId)

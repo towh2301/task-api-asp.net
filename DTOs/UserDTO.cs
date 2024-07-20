@@ -9,6 +9,5 @@ namespace DTOs.UserDTO
         public required string Password { get; set; }
         public required string Email { get; set; }
         public string? PasswordHash { get; set; }
-
     }
 }
