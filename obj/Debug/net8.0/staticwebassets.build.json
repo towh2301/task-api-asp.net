@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0WGORBuQRXH1DLDoPHmz1BmRBe0Qn+kNhqFv+yz/LMs=",
+  "Source": "TaskManagementAPI",
+  "BasePath": "_content/TaskManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
