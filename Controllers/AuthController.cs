@@ -47,6 +47,5 @@ namespace Controllers.AuthController
             await _authService.RevokeTokenAsync(refreshToken ?? throw new ApplicationException("Refresh token not found"));
             return Ok(new { message = "Token revoked successfully", StatusCode = 200 });
         }
-
     }
 }
